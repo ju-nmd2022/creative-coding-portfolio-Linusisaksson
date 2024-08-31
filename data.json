@@ -3,5 +3,11 @@
     "file": "experiments/example.js",
     "name": "Name of your experiment",
     "description": "Explains the what and the why. What is the main idea? What is the purpose? Describes the coding process and implementation choices and gives a high level system overview."
+  },
+
+  {
+    "file": "experiments/squaresv1.js",
+    "name": "Squaresv1",
+    "description": "Recreation of the art example with boxes rotating and being slightly displaced the further down you go in the loop. Started with creating two for loops to create a grid with squares, After that I added rotation and displacement."
   }
 ]
