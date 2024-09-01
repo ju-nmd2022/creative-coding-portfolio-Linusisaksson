@@ -9,5 +9,16 @@
     "file": "experiments/squaresv1.js",
     "name": "Squaresv1",
     "description": "Recreation of the art example with boxes rotating and being slightly displaced the further down you go in the loop. Started with creating two for loops to create a grid with squares, After that I added rotation and displacement."
+  },
+
+  {
+    "file": "experiments/squaresv2.js",
+    "name": "Squaresv2",
+    "description": "Changed color space and added a low framrate to give a sort of blinking effect"
+  },
+  {
+    "file": "experiments/squaresv3.js",
+    "name": "Squaresv3(circles)",
+    "description": "Circles now instead. Added a framecounter to fill up the canvas and then stop after 10 frames"
   }
 ]
