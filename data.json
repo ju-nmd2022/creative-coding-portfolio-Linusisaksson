@@ -17,23 +17,23 @@
   },
   {
     "file": "noise1.js",
-    "name": "Noise1_tornado",
-    "description": " Experimented around with noise. Managed to create a tornado looking thing which i thought was pretty cool. The image only uses 2 vertexes but looks like something with many lines. "
+    "name": "Noise1(tornado)",
+    "description": " Experimented around with noise. Managed to create a tornado looking thing which i thought was pretty cool. The image only uses 2 vertexes but looks like something with many lines."
   },
   {
     "file": "noise2.js",
-    "name": "Noise2_largesketch",
-    "description": " Took the previous code from noise1 and changed some values and added random color, resulted in a more chaotic sketched look. "
+    "name": "Noise2(largesketch)",
+    "description": " Took the previous code from noise1 and changed some values and added random color, resulted in a more chaotic sketched look."
   },
 
   {
     "file": "noise3.js",
-    "name": "Noise3_meltingtornado",
-    "description": " Wanted to see what happened if i added two clasing counters to the shape. "
+    "name": "Noise3(meltingtornado)",
+    "description": " Wanted to see what happened if i added two clasing counters to the shape."
   },
   {
     "file": "noise4.js",
-    "name": "Noise4_tornadobounce",
-    "description": " Added a way to reverse the movement creating an infinte bounce up and down. "
+    "name": "Noise4(tornadobounce)",
+    "description": " Added a way to reverse the movement creating an infinte bounce up and down."
   }
 ]
