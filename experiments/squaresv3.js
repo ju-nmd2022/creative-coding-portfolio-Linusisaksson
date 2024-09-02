@@ -1,6 +1,6 @@
 function setup() {
   createCanvas(600, 600);
-  background(100, 100, 100);
+  // background(100, 100, 100);
   colorMode(HSB);
   frameRate(10);
   //changed color space and added a slow framrate and removed the noLoop()
