@@ -27,7 +27,7 @@ function draw() {
   for (let i = 0; i < amount; i++) {
     let p = particles[i];
     ellipse(p.x, p.y, size);
-    let n = noise(p.x * noiseSize, p.y * noiseSize, frameCount / 1000000);
+    let n = noise(p.x * noiseSize, p.y * noiseSize, frameCount / 10000000);
     let angle = PI * 2 * n;
     p.x += cos(angle) * speed;
     p.y += sin(angle) * speed;

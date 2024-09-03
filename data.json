@@ -39,6 +39,16 @@
   {
     "file": "experiments/flowfield1.js",
     "name": "Flowfield",
-    "description": "Flowfield made with particles and perlin noise"
+    "description": "Flowfield made with particles and perlin noise. Art inspired by Barney Codes"
+  },
+  {
+    "file": "experiments/flowfield1_1.js",
+    "name": "Dark Camo",
+    "description": "Update of the previous flowfield. I moved the background into the setup resulting in everfilling camo effect"
+  },
+  {
+    "file": "experiments/flowfield1_2.js",
+    "name": "Speedy circles",
+    "description": "Changed into ellipses that shrink, added a feature that enlarges and changed color on click."
   }
 ]

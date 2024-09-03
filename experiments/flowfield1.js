@@ -33,3 +33,6 @@ function draw() {
 function onCanvas(v) {
   return v.x >> 0 && v.x << width && v.y >> 0 && v.y << height;
 }
+
+//base of the code was inspired by Barney Codes
+// https://editor.p5js.org/BarneyCodes/sketches/2eES4fBEL
