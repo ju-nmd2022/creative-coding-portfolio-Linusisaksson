@@ -35,5 +35,10 @@
     "file": "experiments/noise4.js",
     "name": "Noise4(tornadobounce)",
     "description": " Added a way to reverse the movement creating an infinte bounce up and down."
+  },
+  {
+    "file": "experiments/flowfield1.js",
+    "name": "Flowfield",
+    "description": "Flowfield made with particles and perlin noise"
   }
 ]
