@@ -1,14 +1,17 @@
 function setup() {
   createCanvas(600, 600);
   frameRate(30);
+  colorR = random(0, 255);
+  colorB = random(0, 255);
+  colorG = random(0, 255);
 }
 
 let counter = 0;
 let direction = 0.03;
 
-colorR = random(0, 255);
-colorB = random(0, 255);
-colorG = random(0, 255);
+let colorR;
+let colorB;
+let colorG;
 
 function draw() {
   background(255, 255, 255);
