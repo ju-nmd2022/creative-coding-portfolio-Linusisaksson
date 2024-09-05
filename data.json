@@ -50,5 +50,10 @@
     "file": "experiments/flowfield1_2.js",
     "name": "Speedy circles",
     "description": "Changed into ellipses that shrink, added a feature that enlarges and changed color on click."
+  },
+  {
+    "file": "experiments/flowfield1_3.js",
+    "name": "Moon",
+    "description": "Inspired by Lines 2,2017 by Tyler Hobbs (https://www.tylerxhobbs.com/works/lines-2)."
   }
 ]
