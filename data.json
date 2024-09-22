@@ -55,5 +55,15 @@
     "file": "experiments/flowfield1_3.js",
     "name": "Moon",
     "description": "Inspired by Lines 2,2017 by Tyler Hobbs (https://www.tylerxhobbs.com/works/lines-2)."
+  },
+  {
+    "file": "experiments/flowfield1_4.js",
+    "name": "Sprial",
+    "description": "Made the flowfield follow a circular motion around a random point, also messed around with random values of the rectagnles when updating the rotations every 3 seconds."
+  },
+  {
+    "file": "experiments/soundtest1.js",
+    "name": "sound",
+    "description": "sound stuff."
   }
 ]
