@@ -63,7 +63,7 @@
   },
   {
     "file": "experiments/soundtest1.js",
-    "name": "sound",
-    "description": "sound stuff."
+    "name": "Chaotic Sound",
+    "description": "Press T to strart tone.js and Y to kill it. Modified previous flowfield example and made it so a random note from an array of notes is played each time a particle reaches the edge of the canvas."
   }
 ]
